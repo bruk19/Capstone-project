@@ -472,4 +472,25 @@ div.past-events figure > figcaption {
   .logo {
     width: 180px;
   }
+
+  footer {
+    padding: 2.2em 12px;
+    margin: 0 auto;
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    justify-content: space-evenly;
+  }
   
+  footer.about-footer img.desktop {
+    display: none;
+  }
+  
+  footer.about-footer img.mobile {
+    display: block;
+  }
+  
+  div.breadcrumbs {
+    display: none;
+  }
+    
