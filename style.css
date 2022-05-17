@@ -491,10 +491,6 @@ div.past-events figure > figcaption {
   justify-content: center;
 }
 
-.future-horse {
-  display: none;
-}
-
 #partners img {
   filter: grayscale(100%);
   width: 80%;
