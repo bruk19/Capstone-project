@@ -555,7 +555,7 @@ div.breadcrumbs {
   header nav > ul {
     display: flex;
     flex-direction: row;
-    gap: 24px;
+    gap: 25px;
     justify-content: end;
     align-items: center;
   }
