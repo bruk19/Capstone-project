@@ -2,21 +2,22 @@
 
 # Capstone-project
 
-> This is a project for mobile version portfolio.
+> This is Microverse's first capstone project, where I built a mobile and desktop website for a fictional horse race event implementing the concepts I have earned in the first module: CSS, HTML, and JavaScript
 
 
 ## Built With
 
 - HTML 5
 - CSS 3
+- JavaScript
 
 # Live Demo Link
 
-[Live Demo Link](git@github.com:bruk19/Capstone-project.git)
+[Live Demo Link](github.com:bruk19/Capstone-project.git)
 
 ## Getting Started
 
-**Just clone the project by runing the `github.com:bruk19/Capstone-project.git` command in your command line, cd Portfolio, open with live server and you are done.**
+**Just clone the project by runing the `github.com:bruk19/Capstone-project.git` command in your command line, cd Capstone-project, open with live server and you are done.**
 
 
 ## Author
