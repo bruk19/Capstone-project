@@ -153,3 +153,125 @@
     color: #4f4f4f;
     margin: 16px 0;
   }  
+  
+#about-headline {
+    background-image: url('./media/about_us_bg.png');
+    background-repeat: no-repeat;
+    background-position: left 100px;
+    background-size: 300%;
+    background-color: #d3d3d3;
+    padding: 12px 12px 36px;
+  }
+  
+  #about-headline > i {
+    cursor: pointer;
+    font-size: 4em;
+    color: #515151;
+  }
+  
+  #about-headline > h1 {
+    color: #f6412a;
+    margin: 24px 0;
+    text-align: center;
+  }
+  
+  #about-headline > h2,
+  #about-headline > h4 {
+    color: #4f4f4f;
+    margin: 16px 0;
+  }
+  
+  .horse-card h3 {
+    font-size: 14px;
+    color: #272a31;
+  }
+  
+  #headline > h3,
+  #about-headline > h3 {
+    color: #ec5242;
+    margin: 24px 0;
+  }
+  
+  #about-headline > h3 {
+    text-align: center;
+  }
+  
+  .lato a:hover {
+    color: #ec5242;
+  }
+  
+  .lato li:hover {
+    border: 1px solid #f7f7f7;
+  }
+  
+  footer > p {
+    font-size: 12px;
+    margin: 24px 0;
+    color: #4e4e50;
+  }
+  
+  section.about-details p {
+    color: #272a31;
+    text-align: center;
+    padding: 24px 0;
+  }
+  
+  #headline > p {
+    background-color: #f7f7f7;
+    border: 4px white solid;
+    padding: 12px;
+    color: #272a31;
+    line-height: 1.5em;
+  }
+  
+  #program-outline li p {
+    color: #d3d3d3;
+    font-size: 12px;
+    flex-basis: 65%;
+  }
+  
+  #about-headline > p:first-of-type {
+    background-color: #fff;
+    border: 1px #ececec solid;
+    padding: 12px;
+    color: #272a31;
+    line-height: 1.5em;
+    text-align: center;
+  }
+  
+  .horse-card h5 {
+    font-size: 13px;
+    font-style: italic;
+    font-weight: normal;
+    color: #ec5242;
+    margin: 4px 0;
+  }
+  
+  #about-headline .about-info,
+  #about-headline h5 {
+    padding: 12px;
+    color: #272a31;
+    line-height: 1.5em;
+    text-align: center;
+    width: 85%;
+    margin: 0 auto;
+  }
+  
+  #about-headline h5 {
+    font-weight: 700;
+    text-decoration: underline;
+    font-size: 17px;
+  }
+  
+  #program-outline {
+    background-image: url('./media/pattern_bg.png');
+    background-size: 1.7em;
+    background-color: #272a31;
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+  }
+  
+  div.past-events figure > figcaption > span.caption {
+    font-size: 1.5em;
+  }
