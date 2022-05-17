@@ -555,7 +555,7 @@ div.breadcrumbs {
   header nav > ul {
     display: flex;
     flex-direction: row;
-    gap: 25px;
+    gap: 24px;
     justify-content: end;
     align-items: center;
   }
@@ -676,7 +676,7 @@ div.breadcrumbs {
 
   #program-outline > h2 {
     color: #d3d3d3;
-    font-size: 24px;
+    font-size: 23px;
     align-self: center;
     margin: 12px;
   }
