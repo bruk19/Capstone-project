@@ -112,6 +112,14 @@ header nav a.active {
   color: #ec5242;
 }
 
+.horse-cards img {
+  width: 40%;
+}
+
+.hor-ins {
+  display: flex;
+}
+
 header nav a.highlighted-menu {
   display: inline-block;
   border: 4px #ec5242 solid;
