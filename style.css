@@ -549,3 +549,25 @@ div.breadcrumbs {
   header nav ul li.logo-container {
     justify-self: start;
   }
+
+  #headline {
+    padding: 8% 10%;
+    margin: 0 auto;
+  }
+
+  #about-headline {
+    background-position: center;
+    background-size: 80%;
+    background-color: #d3d3d3;
+    padding: 60px 20%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  section.about-details p {
+    width: 80%;
+    text-align: center;
+    align-self: center;
+  }
