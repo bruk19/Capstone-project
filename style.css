@@ -571,3 +571,72 @@ div.breadcrumbs {
     text-align: center;
     align-self: center;
   }
+  
+  .horse-card h5 {
+    font-size: 16px;
+  }
+
+  footer.about-footer p {
+    color: #d3d3d3;
+  }
+
+  #about-headline h5,
+  #about-headline p,
+  #about-headline p.about-info {
+    margin-top: 24px;
+  }
+
+  .see-more {
+    display: none;
+  }
+
+  section.about-details h2 span {
+    top: 10px;
+    left: 47%;
+    border-bottom: 1px #ee523c solid;
+    width: 6%;
+  }
+
+  #about-headline h1 span {
+    display: block;
+    position: relative;
+    top: 10px;
+    left: 48%;
+    border-bottom: 1px #ec5242 solid;
+    width: 4%;
+  }
+
+  div.breadcrumbs i {
+    text-decoration: none;
+    color: #2e2e2e;
+  }
+
+  #headline > i,
+  #about-headline > i {
+    display: none;
+  }
+
+  #headline > h1 {
+    font-size: 43px;
+    width: 70%;
+  }
+
+  #about-headline > h1 {
+    font-size: 43px;
+  }
+
+  .horse-card h3 {
+    font-size: 20px;
+  }
+
+  #headline > h3 {
+    font-size: 32px;
+  }
+
+  #about-headline > h3 {
+    display: none;
+  }
+
+  #headline > p {
+    width: 60%;
+  }
