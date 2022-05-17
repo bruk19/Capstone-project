@@ -496,3 +496,56 @@ div.breadcrumbs {
   .mobile-hidden {
     animation: none;
   }
+  
+  .lock-scroll {
+    overflow: scroll;
+  }
+
+  header {
+    display: block;
+    position: relative;
+    height: auto;
+    margin-left: 0;
+    box-shadow: 3px 1px 10px #909091;
+  }
+
+  header > ul {
+    padding: 0 10%;
+    margin: 0 auto;
+  }
+
+  header .close-menu {
+    display: none;
+  }
+
+  header nav {
+    padding: 24px 10%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  header nav > ul {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    justify-content: end;
+    align-items: center;
+  }
+
+  header nav a {
+    color: #272a31;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: 600;
+  }
+
+  .hor-list {
+    display: none;
+  }
+
+  header nav ul li.logo-container {
+    justify-self: start;
+  }
