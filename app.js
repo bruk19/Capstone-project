@@ -57,3 +57,19 @@ const FEATURED_HORSES = [
       header.classList.add('mobile-hidden');
     }
   };
+  
+if (horseCardSkeleton) {
+    for (let i = 0; i < FEATURED_HORSES.length; i += 1) {
+      const card = horseCardSkeleton.cloneNode(true);
+      card.querySelector('img').src = FEATURED_HORSES[i].img;
+      card.querySelector('img').alt = FEATURED_HORSES[i].name;
+      card.querySelector('h3').textContent = FEATURED_HORSES[i].name;
+      card.querySelector('h5').textContent = FEATURED_HORSES[i].highlights;
+      card.querySelector('h6').textContent = FEATURED_HORSES[i].description;
+      featuredHorses.append(card);
+    }
+    horseCardSkeleton.remove();
+  }
+  
+  menuBtn.onclick = toggleMenu;
+  closeMenuBtn.onclick = toggleMenu;
