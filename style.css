@@ -289,7 +289,7 @@ section.about-details p {
 }
 
 #about-headline h5 {
-  font-weight: 690;
+  font-weight: 700;
   text-decoration: underline;
   font-size: 17px;
 }
@@ -328,7 +328,7 @@ section.about-details h2 span,
 
 #program-outline li {
   margin: 8px 0;
-  background-color: rgb(247, 247, 247, 0.12);
+  background-color: rgba(247, 247, 247, 0.13);
   display: flex;
   gap: 8px;
   align-items: center;
