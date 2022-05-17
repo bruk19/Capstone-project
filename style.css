@@ -676,7 +676,7 @@ div.breadcrumbs {
 
   #program-outline > h2 {
     color: #d3d3d3;
-    font-size: 23px;
+    font-size: 24px;
     align-self: center;
     margin: 12px;
   }
@@ -713,7 +713,7 @@ div.breadcrumbs {
   }
 
   #about-logo > img {
-    border: 1px #ececec solid;
+    border: 1px #ebebeb solid;
     padding: 24px 56px;
     width: 70%;
     align-self: center;
