@@ -748,3 +748,43 @@ div.breadcrumbs {
     margin: 0 auto;
   }
 
+  footer.about-footer {
+    background-color: #2e2e2e;
+  }
+
+  footer.about-footer img.mobile {
+    display: none;
+  }
+
+  footer.about-footer img.desktop {
+    display: block;
+  }
+
+  #partners.partners-about {
+    display: none;
+  }
+
+  div.breadcrumbs {
+    display: block;
+    position: relative;
+    right: -105%;
+    top: -30px;
+    font-weight: 500;
+    color: #2e2e2e;
+    font-size: 14px;
+  }
+
+  div.breadcrumbs a {
+    text-decoration: none;
+  }
+
+  div.breadcrumbs a::after {
+    content: '>';
+    color: #ec5242;
+    margin: 0 6px;
+    font-family: 'Cocogoose', sans-serif;
+    font-size: 17px;
+    font-weight: 100;
+  }
+}
+
