@@ -17,7 +17,10 @@
 
 ## Getting Started
 
+
 **Just clone the project by runing the `github.com:bruk19/Capstone-project.git` command in your command line, cd Capstone-project, open with live server and you are done.**
+ you are done.**
+
 
 
 ## Author
@@ -46,4 +49,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
+
 This project is [MIT](./MIT.md) licensed.
+
