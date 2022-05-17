@@ -42,7 +42,7 @@ const FEATURED_HORSES = [
     img: './media/horse-6.jpg',
   },
 ];
-  
+
 const toggleMenu = () => {
   if (header.classList.length === 0) {
     header.classList.add('mobile-show');
@@ -57,7 +57,7 @@ const toggleMenu = () => {
     header.classList.add('mobile-hidden');
   }
 };
-  
+
 if (horseCardSkeleton) {
   for (let i = 0; i < FEATURED_HORSES.length; i += 1) {
     const card = horseCardSkeleton.cloneNode(true);
@@ -70,6 +70,6 @@ if (horseCardSkeleton) {
   }
   horseCardSkeleton.remove();
 }
-  
+
 menuBtn.onclick = toggleMenu;
 closeMenuBtn.onclick = toggleMenu;
