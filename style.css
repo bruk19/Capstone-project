@@ -280,7 +280,7 @@ section.about-details p {
 
 #about-headline .about-info,
 #about-headline h5 {
-  padding: 11px;
+  padding: 12px;
   color: #272a31;
   line-height: 1.5em;
   text-align: center;
@@ -289,7 +289,7 @@ section.about-details p {
 }
 
 #about-headline h5 {
-  font-weight: 700;
+  font-weight: 690;
   text-decoration: underline;
   font-size: 17px;
 }
