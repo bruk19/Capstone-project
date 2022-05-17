@@ -491,11 +491,8 @@ footer.about-footer img.mobile {
 div.breadcrumbs {
   display: none;
 }
-<<<<<<< HEAD
 
 @media screen and (min-width: 768px) {
-    .mobile-hidden {
-      animation: none;
-    }
-=======
->>>>>>> fe7cd6fe9eb276a697037336898078b91b14f07f
+  .mobile-hidden {
+    animation: none;
+  }
