@@ -119,6 +119,10 @@ header nav a.highlighted-menu {
   color: #ec5242;
 }
 
+.see-more i {
+  color: #ee523c;
+}  
+
 #headline {
   background-image: url('./media/home_bg.png');
   background-repeat: no-repeat;
@@ -152,7 +156,7 @@ section.about-details h2 {
 #headline > h4 {
   color: #4f4f4f;
   margin: 16px 0;
-}  
+}
 
 #about-headline {
   background-image: url('./media/about_us_bg.png');
@@ -425,10 +429,6 @@ div.past-events figure > figcaption {
   color: #646060;
 }
 
-.see-more i {
-  color: #ee523c;
-}
-
 #partners {
   background-color: #424242;
   display: flex;
@@ -491,4 +491,3 @@ footer.about-footer img.mobile {
 div.breadcrumbs {
   display: none;
 }
-    
