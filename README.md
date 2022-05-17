@@ -17,7 +17,7 @@
 
 ## Getting Started
 
-**Just clone the project by runing the `github.com:bruk19/Capstone-project.git` command in your command line, cd Portfolio, open with live server and you are done.**
+**Just clone the project by runing the `github.com:bruk19/Capstone-project.git` command in your command line, Capstone-project, open with live server and you are done.**
 
 
 ## Author
