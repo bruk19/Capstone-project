@@ -496,7 +496,7 @@ div.breadcrumbs {
   .mobile-hidden {
     animation: none;
   }
-  
+
   .lock-scroll {
     overflow: scroll;
   }
@@ -571,7 +571,7 @@ div.breadcrumbs {
     text-align: center;
     align-self: center;
   }
-  
+
   .horse-card h5 {
     font-size: 16px;
   }
@@ -787,4 +787,3 @@ div.breadcrumbs {
     font-weight: 100;
   }
 }
-
