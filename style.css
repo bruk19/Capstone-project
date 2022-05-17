@@ -275,3 +275,121 @@
   div.past-events figure > figcaption > span.caption {
     font-size: 1.5em;
   }
+  
+section.about-details h2 span,
+#program-outline > h2 span,
+#featured-horses > h2 span,
+#partners > h2 span {
+  display: block;
+  position: relative;
+  top: 10px;
+  left: 34%;
+  border-bottom: 1px #ee523c solid;
+  width: 32%;
+}
+
+#program-outline > h2 {
+  color: #d3d3d3;
+  font-size: 17px;
+  align-self: center;
+  margin: 12px;
+}
+
+#program-outline li {
+  margin: 8px 0;
+  background-color: rgb(247, 247, 247, 0.12);
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  padding: 16px;
+}
+
+#program-outline li h3 {
+  color: #ec5242;
+  font-size: 16px;
+  flex-basis: 25%;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+
+#join-btn {
+  padding: 24px;
+  text-decoration: none;
+  color: #d3d3d3;
+  width: 80%;
+  align-self: center;
+  background-color: #ff4f38;
+  text-align: center;
+  margin: 25px 0;
+}
+
+.see-program {
+  display: none;
+}
+
+#about-logo {
+  border-bottom: 1px #ececec solid;
+}
+
+div.past-events img {
+  width: 100%;
+  filter: grayscale(10%);
+}
+
+.horse-card picture > img {
+  width: 84%;
+  margin-top: 13%;
+  margin-left: 13%;
+}
+
+#about-logo > img {
+  border: 1px #ececec solid;
+  padding: 24px;
+  width: 90%;
+  align-self: center;
+}
+
+section.about-details {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  padding: 32px 24px;
+}
+
+div.past-events figure {
+  position: relative;
+  margin: 12px 0;
+}
+
+div.past-events figure > figcaption {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: #d3d3d3;
+  font-weight: 700;
+}
+
+#featured-horses {
+  display: flex;
+  flex-direction: column;
+  padding: 12px;
+}
+
+#featured-horses > h2 {
+  color: #272a31;
+  font-size: 17px;
+  align-self: center;
+  margin: 12px;
+}
+
+#featured-horses > ul {
+  padding: 24px 0;
+}
+
+#featured-horses .horse-card {
+  display: flex;
+  gap: 10px;
+  margin: 24px 0;
+}
