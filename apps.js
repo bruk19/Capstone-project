@@ -32,7 +32,7 @@ const FEATURED_CARS = [
   {
     name: 'Kirubel Kebefe',
     highlights: '1200cc, >1500cc foaled March 01, 2019',
-    description: 'Three times Dankira race winner. Total career earnings 860.000br. Coming from Argentina as a top horse.',
+    description: 'Three times Dankira race winner. Total career earnings 860.000br. Coming from kenya as a top car.',
     img: './media/racce3.jpg',
   },
   {
