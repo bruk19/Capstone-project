@@ -13,7 +13,7 @@
 
 # Live Demo Link
 
-[Live Demo Link](https://bruk19.github.io/Capstone-project/)
+[Live Demo Link](https://github.com/bruk19/Capstone-project)
 
 ## Getting Started
 
