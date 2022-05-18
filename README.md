@@ -13,11 +13,25 @@
 
 # Live Demo Link
 
-[Live Demo Link](https://github.com/bruk19/Capstone-project)
+[Live Demo Link](https://bruk19.github.io/Capstone-project/)
 
 ## Getting Started
 
-**Just clone the project by runing the `github.com:bruk19/Capstone-project.git` command in your command line, Capstone-project, open with live server and you are done.**
+**This project is the presentation of a fictional event website for mobile and desktop. It was built based on the [original design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) idea by Cindy Shin in Behance applying the acquired knowledge about JavaScript, HTML, and CSS through this module.**
+
+## Installation
+
+Clone this repository (you must have [Git Installed](https://github.com/git-guides/install-git))
+
+`git clone git@github.com:bruk19/Capstone-project.git` 
+
+Then, move to the newly created folder `capstone-project` using this command
+
+`cd capstone-project`
+
+To open the project in Visual Studio Code type the following command inside the _capstone-project_ folder
+
+`code .`
 
 
 ## Author
