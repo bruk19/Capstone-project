@@ -112,12 +112,6 @@ header nav a.active {
   color: #ec5242;
 }
 
-.horse-cards img {
-  width: 90%;
-  margin-left: 10px;
-  margin-top: 25px;
-}
-
 header nav a.highlighted-menu {
   display: inline-block;
   border: 4px #ec5242 solid;
@@ -240,7 +234,7 @@ section.about-details p {
   background-color: #fff;
   border: 1px #ececec solid;
   padding: 12px;
-  color: #272a30;
+  color: #272a31;
   line-height: 1.5em;
   text-align: center;
 }
@@ -303,7 +297,7 @@ section.about-details h2 span,
 
 #program-outline li {
   margin: 8px 0;
-  background-color: rgba(247, 247, 247, 0.13);
+  background-color: rgb(247, 247, 247, 0.12);
   display: flex;
   gap: 8px;
   align-items: center;
@@ -416,6 +410,23 @@ div.past-events figure > figcaption {
 
 .horse-card h6 {
   color: #4e4e50;
+}
+
+.see-more button {
+  width: 100%;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  height: 40px;
+  border: 1px solid #d3d3d3;
+  font-size: 13px;
+  color: #646060;
+}
+
+.see-more i {
+  color: #ee523c;
 }
 
 #partners {
@@ -571,6 +582,10 @@ div.breadcrumbs {
     margin-top: 24px;
   }
 
+  .see-more {
+    display: none;
+  }
+
   section.about-details h2 span {
     top: 10px;
     left: 47%;
@@ -673,7 +688,7 @@ div.breadcrumbs {
   }
 
   #about-logo > img {
-    border: 1px #ebebeb solid;
+    border: 1px #ececec solid;
     padding: 24px 56px;
     width: 70%;
     align-self: center;
