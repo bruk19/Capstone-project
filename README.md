@@ -43,9 +43,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- Original design idea by Cindy Shin in Behance.
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- To all my stand up teams, morning session groups and coding/learning partners
 
 ## 📝 License
 
