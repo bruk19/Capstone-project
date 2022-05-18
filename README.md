@@ -15,6 +15,7 @@
 
 [Live Demo Link](https://bruk19.github.io/Capstone-project/)
 
+
 ## Getting Started
 
 **This project is the presentation of a fictional event website for mobile and desktop. It was built based on the [original design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) idea by Cindy Shin in Behance applying the acquired knowledge about JavaScript, HTML, and CSS through this module.**
