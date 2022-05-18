@@ -25,11 +25,11 @@ Clone this repository (you must have [Git Installed](https://github.com/git-guid
 
 `git clone git@github.com:bruk19/Capstone-project.git` 
 
-Then, move to the newly created folder `capstone-project` using this command
+Then, move to the newly created folder `Capstone-project` using this command
 
-`cd capstone-project`
+`cd Capstone-project`
 
-To open the project in Visual Studio Code type the following command inside the _capstone-project_ folder
+To open the project in Visual Studio Code type the following command inside the _Capstone-project_ folder
 
 `code .`
 
