@@ -118,31 +118,6 @@ header nav a.active {
   margin-top: 25px;
 }
 
-.letes {
-  margin-top: 20px;
-  margin-left: 15px;
-}
-
-.letes h5 {
-  color: #ec5242;
-  margin-top: 5px;
-}
-
-.letes hr {
-  width: 10%;
-  color: #d3d3d3;
-  margin-top: 5px;
-}
-
-.letes h6 {
-  color: #888585;
-  margin-top: 10px;
-}
-
-.hor-ins {
-  display: flex;
-}
-
 header nav a.highlighted-menu {
   display: inline-block;
   border: 4px #ec5242 solid;
@@ -441,21 +416,6 @@ div.past-events figure > figcaption {
 
 .horse-card h6 {
   color: #4e4e50;
-}
-
-.see-more button {
-  width: 100%;
-  background-color: rgb(255, 255, 255);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 5px;
-  height: 45px;
-  border: 1px solid #d3d3d3;
-  font-size: 13px;
-  color: #646060;
-  margin-top: 40px;
-  margin-bottom: 15px;
 }
 
 #partners {

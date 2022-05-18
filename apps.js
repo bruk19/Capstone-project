@@ -9,7 +9,7 @@ const FEATURED_HORSES = [
     name: 'C Runner',
     highlights: 'TB, DK B/, G, foaled February 19, 2017',
     description: 'Seven times G1 winner. Total career earnings $382.000, best results achieved in 2020.',
-    img: './media/horse-1.jpg',
+    img: './media/images5.jpg',
   },
   {
     name: 'Life is Cold',
