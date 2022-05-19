@@ -13,7 +13,7 @@
 
 # Live Demo Link
 
-[Live Demo Link](https://bruk19.github.io/Capstone-project/)
+[Live Demo Link](https://remarkable-tiramisu-14f3df.netlify.app/)
 
 ## Getting Started
 
