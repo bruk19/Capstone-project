@@ -2,7 +2,7 @@
 
 # Capstone-project
 
-> This is Microverse's first capstone project, where I built a mobile and desktop website for a fictional horse race event implementing the concepts I have earned in the first module: CSS, HTML, and JavaScript
+> This is Microverse's first capstone project, where I built a mobile and desktop website for a fictional car race event implementing the concepts I have earned in the first module: CSS, HTML, and JavaScript
 
 
 ## Built With
@@ -15,9 +15,11 @@
 
 [Live Demo Link](https://remarkable-tiramisu-14f3df.netlify.app/)
 
+
 ## Project Introduction
 
 [Presentation Loom Video](https://www.loom.com/share/53bb8d98a9ec4f6a942157429654694d)
+
 
 
 ## Getting Started
@@ -30,11 +32,11 @@ Clone this repository (you must have [Git Installed](https://github.com/git-guid
 
 `git clone git@github.com:bruk19/Capstone-project.git` 
 
-Then, move to the newly created folder `capstone-project` using this command
+Then, move to the newly created folder `Capstone-project` using this command
 
-`cd capstone-project`
+`cd Capstone-project`
 
-To open the project in Visual Studio Code type the following command inside the _capstone-project_ folder
+To open the project in Visual Studio Code type the following command inside the _Capstone-project_ folder
 
 `code .`
 
