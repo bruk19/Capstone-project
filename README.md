@@ -15,6 +15,13 @@
 
 [Live Demo Link](https://remarkable-tiramisu-14f3df.netlify.app/)
 
+
+## Project Introduction
+
+[Presentation Loom Video](https://www.loom.com/share/53bb8d98a9ec4f6a942157429654694d)
+
+
+
 ## Getting Started
 
 **This project is the presentation of a fictional event website for mobile and desktop. It was built based on the [original design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) idea by Cindy Shin in Behance applying the acquired knowledge about JavaScript, HTML, and CSS through this module.**
@@ -33,6 +40,23 @@ To open the project in Visual Studio Code type the following command inside the 
 
 `code .`
 
+## Getting Started
+
+**This project is the presentation of a fictional event website for mobile and desktop. It was built based on the [original design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) idea by Cindy Shin in Behance applying the acquired knowledge about JavaScript, HTML, and CSS through this module.**
+
+## Installation
+
+Clone this repository (you must have [Git Installed](https://github.com/git-guides/install-git))
+
+`git clone git@github.com:bruk19/Capstone-project.git` 
+
+Then, move to the newly created folder `capstone-project` using this command
+
+`cd capstone-project`
+
+To open the project in Visual Studio Code type the following command inside the _capstone-project_ folder
+
+`code .`
 
 ## Author
 
@@ -60,4 +84,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
+
 This project is [MIT](./MIT.md) licensed.
+

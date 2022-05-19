@@ -109,7 +109,7 @@ header nav > ul {
 }
 
 header nav a.active {
-  color: #ec5242;
+  color: #ec5241;
 }
 
 header nav a.highlighted-menu {
@@ -117,10 +117,6 @@ header nav a.highlighted-menu {
   border: 4px #ec5242 solid;
   padding: 6px 10px;
   color: #ec5242;
-}
-
-.see-more i {
-  color: #ee523c;
 }
 
 #headline {
@@ -371,7 +367,7 @@ div.past-events figure > figcaption {
   left: 0;
   right: 0;
   text-align: center;
-  color: #d3d3d3;
+  color: #fffbfb;
   font-weight: 700;
 }
 
@@ -456,10 +452,6 @@ div.past-events figure > figcaption {
 #partners > ul li {
   display: flex;
   justify-content: center;
-}
-
-.future-horse {
-  display: none;
 }
 
 #partners img {
