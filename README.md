@@ -15,6 +15,10 @@
 
 [Live Demo Link](https://bruk19.github.io/Capstone-project/)
 
+## Project Introduction
+
+[Presentation Loom Video](https://www.loom.com/share/53bb8d98a9ec4f6a942157429654694d)
+
 
 ## Getting Started
 
